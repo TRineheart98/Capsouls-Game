@@ -22,4 +22,4 @@ Features
 
     Pause menu and settings menu
 
-    Multiplayer components using Unity Netcode (if applicable)
+    Multiplayer components using Unity Netcode
