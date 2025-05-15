@@ -28,3 +28,19 @@ Basic boss fight logic
 Pause menu and settings menu
 
 Multiplayer components using Unity Netcode
+
+## **Technologies Used**
+
+Unity Engine
+
+C# Programming Language
+
+Unity Animator & Root Motion
+
+Unity NavMesh for AI pathfinding
+
+JSON for save/load system
+
+Unity UI Toolkit (or legacy UI if used)
+
+Unity Netcode for multiplayer (if applicable)
