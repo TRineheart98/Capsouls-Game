@@ -1,25 +1,25 @@
 # Capsouls-Game
 
-Features
+**Features**
 
-    Third-person character controller with root motion animations
+Third-person character controller with root motion animations
 
-    Melee combat system with weapon swapping
+Melee combat system with weapon swapping
 
-    AI enemy with pursuit, attack, and idle states
+AI enemy with pursuit, attack, and idle states
 
-    Lock-on targeting system
+Lock-on targeting system
 
-    Player leveling and stats (health, stamina, etc.)
+Player leveling and stats (health, stamina, etc.)
 
-    Collectible weapons and items with inventory UI
+Collectible weapons and items with inventory UI
 
-    Save/load system using JSON serialization
+Save/load system using JSON serialization
 
-    Respawn mechanic and checkpoint system
+Respawn mechanic and checkpoint system
 
-    Basic boss fight logic
+Basic boss fight logic
 
-    Pause menu and settings menu
+Pause menu and settings menu
 
-    Multiplayer components using Unity Netcode
+Multiplayer components using Unity Netcode
