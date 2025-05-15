@@ -1,6 +1,7 @@
 # Capsouls-Game
 
 **About the Project**
+
 Capsouls is a personal game development project inspired by the Souls series. Built entirely in Unity with C#, the goal was to create a fully playable 3D RPG experience complete with combat mechanics, character progression, and immersive gameplay. This project showcases a variety of systems including enemy AI, inventory and equipment management, and networked multiplayer capabilities.
 
 
